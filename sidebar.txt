@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcw:home|Door43 (bcw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcw|d43-bcw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcw/archive/master.zip|d43-bcw.zip]]
+
+**Recent Changes**
+{{changes>ns = bcw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcw|Ethnologue data]]
+
